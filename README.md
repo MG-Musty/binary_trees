@@ -1,4 +1,4 @@
-# :tree: binary_trees :trees:
+# 🎋 binary_trees 🎄
 
 ## Description
 This project is about Binary Trees in C and other tree-type data structures.
